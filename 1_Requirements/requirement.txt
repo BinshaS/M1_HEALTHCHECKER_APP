@@ -1,0 +1,6 @@
+Health Management System
+Health Management System is used to get our health informations by comparing our input details with the database. It is also used to get our BMI details in this database system.  
+strength: It is simple to use and it cost effective and time saving
+weakness: The results maybe inaccurate if we have different symptoms than others.
+opportunity: We can identify the diseases in the starting stage and treat it.
+Threat: Development of new diseases.
