@@ -10,5 +10,3 @@
 4_Test Plan and output sample Input and output
 
 5_Report Details of the projects
-
-6_Video video of the projects
