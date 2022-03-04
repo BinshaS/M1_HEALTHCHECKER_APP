@@ -1,4 +1,4 @@
-![check-code-coverage](https://app.codiga.io/public/user/github/BinshaS)
+![check-code-coverage](https://api.codiga.io/project/31569/score/svg)
 
 1_Requirements: Health Management System is used to get our health information by comparing our input details with the database. It is also used to get our BMI details in this database system. 
 
